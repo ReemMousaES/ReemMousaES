@@ -5,6 +5,8 @@
 
 I specialize in building robust, high-performance Android applications. I am passionate about tackling complex challenges like memory management (OOM prevention), concurrent background processing, and modernizing legacy codebases.
 
+![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReemMousaES&show_icons=true&theme=radical)
+
 ### 🛠️ What I've Been Working On
 * **esUpload:** Created and published an open-source, production-ready sequential file upload library powered by WorkManager. It handles network fluctuations, background restrictions, and UI state synchronization. [Check it out here](https://github.com/ReemMousaES/esUpload).
 * **DSLR Photo Ingestion Pipeline:** Re-architected a high-speed DSLR photo capture pipeline using Kotlin Channels and a "Disk-First" approach to eliminate native Out-Of-Memory (OOM) crashes during burst-fire photography.
